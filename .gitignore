@@ -25,7 +25,7 @@ bld/
 [Bb]in/
 [Oo]bj/
 msbuild.log
-msbuild.err
+msbuild.errS
 msbuild.wrn
 
 # Visual Studio 2015
